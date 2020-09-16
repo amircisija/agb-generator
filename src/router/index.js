@@ -4,6 +4,7 @@ import Home from "../views/Home.vue";
 import Agb from "../views/Agb.vue";
 import Agbundlb from "../views/Agbundlb.vue";
 import AAgbundlb from "../views/AAgbundlb.vue";
+import Impressum from "../views/Impressum.vue";
 Vue.use(VueRouter);
 
 const routes = [{
@@ -25,6 +26,11 @@ const routes = [{
     path: "/aagbundlb",
     name: "aagbundlb",
     component: AAgbundlb
+  },
+  {
+    path: "/impressum",
+    name: "impressum",
+    component: Impressum
   },
   {
     path: "/about",
