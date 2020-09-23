@@ -157,6 +157,7 @@
             des Auftraggebers werden isoliert berechnet.
           </p>
           <p>4. Im Übrigen gilt das konkret erstellte Angebot.</p>
+          <p>5. Die Preisangaben sind Nettoangaben.</p>
         </v-card-text>
         <v-card-text>
           <h4>V. Auftragsbeteiligung durch Dritte</h4>
